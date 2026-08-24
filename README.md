@@ -34,7 +34,7 @@
 
 ---
 
-### 💼 Experience
+<!-- ### 💼 Experience
 
 #### 🔹 Member of Technical Staff, Intern — GeeksforGeeks
 **Dec 2025 – Jun 2026**
@@ -58,7 +58,7 @@
 
 **Focus:** `C++` `DSA` `Problem Solving` `Mentoring`
 
----
+--- -->
 
 ### ⚡ Tech I Work With
 
@@ -96,7 +96,7 @@
 ```
 
 ---
-
+<!-- 
 ### 🚀 Featured Projects
 
 #### 🩺 ElixerAI — Medical Report Analyzer
@@ -115,7 +115,7 @@ A local-first AI application that captures text from anywhere on the system and 
 
 `Rust` `Tauri` `React` `SQLite` `Groq` `Llama 3.3`
 
----
+--- -->
 
 ### 🏆 Competitive Programming
 
