@@ -3,85 +3,140 @@
 <h3 align="center">Software Developer | Backend & Full Stack | Competitive Programmer</h3>
 
 <p align="center">
-  Building reliable applications, solving challenging problems, and exploring AI-powered systems.
+  <i>Building things, breaking things, understanding why they work, and building them better.</i>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lakshay-singh-ba99b6290">LinkedIn</a> •
-  <a href="https://leetcode.com/u/THELONGCLAW">LeetCode</a> •
-  <a href="https://codeforces.com/profile/THEBLACKFYRE">Codeforces</a> •
-  <a href="https://www.codechef.com/users/thelongclaw">CodeChef</a> •
-  <a href="https://github.com/lakshayysinghh">GitHub</a>
+  <a href="https://www.linkedin.com/in/lakshay-singh-ba99b6290">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/THELONGCLAW">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="https://codeforces.com/profile/THEBLACKFYRE">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+  <a href="https://www.codechef.com/users/thelongclaw">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-* 🎓 B.Tech in Information Technology @ GGSIPU
-* 💻 Software Developer focused on **Backend & Full Stack Engineering**
-* 🧠 Strong interest in **DSA, System Design & scalable systems**
-* 🤖 Exploring **Generative AI, LLM applications & AI-powered systems**
-* 🚀 Interested in building reliable, production-oriented software
+* 🎓 B.Tech in **Information Technology** @ GGSIPU
+* 💻 Interested in **Backend Engineering, Distributed Systems & System Design**
+* 🧠 Competitive Programmer who enjoys solving **DSA problems**
+* 🤖 Exploring **Generative AI, LLMs, RAG & AI-powered applications**
+* 🔧 I like understanding systems beyond the API — **what happens underneath and why**
+* 🚀 Currently focused on becoming a better **software engineer, one project at a time**
 
 ---
 
-### ⚡ What I Work With
+### ⚡ Tech I Work With
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,java,js,react,nodejs,express,mongodb,mysql,redis,docker,aws,git,github&perline=7" />
+
+</p>
+
+---
+
+### 🧠 Currently Exploring
 
 ```text
-Languages       → C++ | Python | Java | JavaScript
+🤖 Generative AI
+   ├── LLMs
+   ├── RAG
+   ├── Embeddings
+   ├── Vector Databases
+   ├── Prompt Engineering
+   └── AI Agents
 
-Backend         → Node.js | Express.js | REST APIs | JWT | WebSockets
+⚙️ Backend & Systems
+   ├── REST APIs
+   ├── WebSockets
+   ├── Distributed Systems
+   ├── Caching
+   ├── Message Queues
+   └── System Design
 
-Frontend        → React.js | HTML | CSS | Tailwind CSS
-
-Databases       → MongoDB | MySQL | SQLite
-
-Cloud & Tools   → AWS | Docker | Git | GitHub | Postman
-
-AI              → LLMs | Ollama | LangChain | AI-powered applications
+🧩 Problem Solving
+   ├── Data Structures & Algorithms
+   ├── Competitive Programming
+   └── Algorithm Optimization
 ```
 
 ---
 
 ### 🚀 Featured Projects
 
-**🔹 ElixerAI — Medical Report Analyzer**
+#### 🩺 ElixerAI — Medical Report Analyzer
 
-Full-stack platform for medical report processing, biomarker tracking, and an AI-powered health assistant.
+A full-stack medical report platform that extracts report data, tracks biomarker history, and provides an AI-powered health assistant.
 
 `React` `Node.js` `Express.js` `MongoDB` `AWS S3` `Ollama`
 
-[View Repository](https://github.com/lakshayysinghh/elixer-ai)
+🔗 [Repository](https://github.com/lakshayysinghh/elixer-ai)
 
 ---
 
-**🔹 TaskCatch — AI Task Extractor**
+#### 🤖 TaskCatch — AI Task Extractor
 
-A local-first AI task extraction application that captures text globally and converts unstructured text into structured tasks.
+A local-first AI application that captures text from anywhere on the system and converts unstructured information into structured tasks.
 
-`Rust` `Tauri` `React` `SQLite` `Groq API`
+`Rust` `Tauri` `React` `SQLite` `Groq` `Llama 3.3`
 
 ---
 
 ### 🏆 Competitive Programming
 
-* **LeetCode** — 1000+ problems | Max Rating: 1862 | Knight
-* **Codeforces** — Max Rating: 1424 | Specialist
-* **CodeChef** — Max Rating: 1666 | 3-Star
-* **CodeChef Starters 181 & 182** — Top 4%
+<p align="center">
+
+<img src="https://img.shields.io/badge/LeetCode-1862-orange?style=flat-square&logo=leetcode"/>
+<img src="https://img.shields.io/badge/Codeforces-1424-blue?style=flat-square&logo=codeforces"/>
+<img src="https://img.shields.io/badge/CodeChef-1666-brown?style=flat-square&logo=codechef"/>
+
+</p>
+
+* 🟠 **LeetCode:** 1000+ problems | Max Rating **1862** | Knight
+* 🔵 **Codeforces:** Max Rating **1424** | Specialist
+* 🟤 **CodeChef:** Max Rating **1666** | 3-Star
+* 🏅 CodeChef Starters 181 & 182 — **Top 4%**
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lakshayysinghh&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshayysinghh&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lakshayysinghh&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshayysinghh&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=lakshayysinghh&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
+### 🌱 A Few Things I'm Curious About
+
+```text
+How does a system behave when 1 user becomes 1 million users?
+
+How do we make an API fast without just throwing more servers at it?
+
+What actually happens between a user request and a database response?
+
+How do LLMs retrieve the right information instead of hallucinating?
+
+How can AI be integrated into real products instead of just demos?
+```
+
+---
+
 <p align="center">
-  <i>Always learning. Always building. Always solving.</i>
+  <b>💡 Build → Break → Understand → Improve → Repeat</b>
 </p>
