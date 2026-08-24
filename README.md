@@ -34,6 +34,32 @@
 
 ---
 
+### 💼 Experience
+
+#### 🔹 Member of Technical Staff, Intern — GeeksforGeeks
+**Dec 2025 – Jun 2026**
+
+- ⚙️ Improved reliability of the **real-time code execution pipeline**, reducing edge-case execution failures by **25%** across 10+ distributed test environments.
+- 🚀 Revamped the compiler execution pipeline, reducing **real-time compilation latency by 15%**.
+- 🏷️ Designed a **tag-based feed filtering system** to improve topic-specific content discovery.
+- 🤖 Built **AI-powered systems** for multi-language driver code generation and real-time execution hints.
+- 🔄 Built an **asynchronous compilation validation pipeline using SQS + Redis** to catch broken multi-language solutions before save/merge.
+
+**Focus:** `Backend` `Distributed Systems` `Code Execution` `AWS SQS` `Redis` `AI`
+
+---
+
+#### 🔹 Teaching Assistant — Coding Ninjas
+**Apr 2024 – Sep 2024**
+
+- 🧑‍💻 Mentored **40+ students** across DSA and programming courses.
+- 💡 Resolved **500+ programming and DSA doubts** with approximately **95% satisfaction**.
+- 🤖 Used AI-powered tools alongside structured DSA guidance to improve doubt-resolution workflows.
+
+**Focus:** `C++` `DSA` `Problem Solving` `Mentoring`
+
+---
+
 ### ⚡ Tech I Work With
 
 <p align="center">
